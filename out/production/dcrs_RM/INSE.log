@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-29T15:24:28</date>
+  <millis>1543523068406</millis>
+  <sequence>1</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The server for INSE is up and running on port 3333</message>
+</record>

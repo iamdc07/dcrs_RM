@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-29T15:24:28</date>
+  <millis>1543523068422</millis>
+  <sequence>0</sequence>
+  <logger>COMP UDP Server</logger>
+  <level>INFO</level>
+  <class>server.ServerUdpThread</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>The UDP server for COMP is up and running on port 1112</message>
+</record>
+<record>
+  <date>2018-11-29T15:24:31</date>
+  <millis>1543523071710</millis>
+  <sequence>2</sequence>
+  <logger>COMP UDP Server</logger>
+  <level>INFO</level>
+  <class>server.ServerUdpThread</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>COURSE: ABCD</message>
+</record>

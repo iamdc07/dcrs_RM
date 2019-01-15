@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-29T15:24:28</date>
+  <millis>1543523068422</millis>
+  <sequence>1</sequence>
+  <logger>COMP Server</logger>
+  <level>INFO</level>
+  <class>server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The server for COMP is up and running on port 1111</message>
+</record>
